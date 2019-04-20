@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.controlador/Controlador.cpp
+Controlador.h
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.controlador/Controlador.h
+
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.controlador/Controlador.h
+vector
+-
+../arqui.modelo/usuario/Usuario.h
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.modelo/usuario/Usuario.h
+../arqui.vista/Vista.h
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.vista/Vista.h
+
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.controlador/main.cpp
+iostream
+-
+../arqui.modelo/usuario/Usuario.h
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.modelo/usuario/Usuario.h
+../arqui.vista/Vista.h
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.vista/Vista.h
+Controlador.h
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.controlador/Controlador.h
+
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.modelo/usuario/Usuario.h
+string
+-
+iostream
+-
+
+C:/Users/DiegoCarrascal/Documents/arqui/arqui.vista/Vista.h
+vector
+-
+

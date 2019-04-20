@@ -1,0 +1,3 @@
+C:/Users/DiegoCarrascal/Documents/arqui/cmake-build-debug/CMakeFiles/arqui.dir
+C:/Users/DiegoCarrascal/Documents/arqui/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DiegoCarrascal/Documents/arqui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
