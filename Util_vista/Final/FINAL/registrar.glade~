@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated with glade 3.22.1 -->
+<interface>
+  <requires lib="gtk+" version="3.20"/>
+  <object class="GtkApplicationWindow" id="principal">
+    <property name="can_focus">False</property>
+    <child>
+      <placeholder/>
+    </child>
+    <child>
+      <object class="GtkFrame">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="label_xalign">0</property>
+        <property name="shadow_type">none</property>
+        <child>
+          <object class="GtkAlignment" id="Id_Frame">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="xalign">0</property>
+            <property name="yalign">0</property>
+            <child>
+              <object class="GtkLayout">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <child>
+                  <object class="GtkButton" id="miboton">
+                    <property name="label" translatable="yes">button</property>
+                    <property name="width_request">43</property>
+                    <property name="height_request">28</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                    <property name="receives_default">True</property>
+                  </object>
+                  <packing>
+                    <property name="x">353</property>
+                    <property name="y">173</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkEntry" id="input_uno">
+                    <property name="width_request">69</property>
+                    <property name="height_request">-1</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                  </object>
+                  <packing>
+                    <property name="x">60</property>
+                    <property name="y">30</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkEntry" id="input_dos">
+                    <property name="width_request">76</property>
+                    <property name="height_request">-1</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">True</property>
+                  </object>
+                  <packing>
+                    <property name="x">59</property>
+                    <property name="y">88</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkLabel" id="milabel">
+                    <property name="width_request">100</property>
+                    <property name="height_request">6</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">False</property>
+                    <property name="label" translatable="yes">: Entrada uno</property>
+                  </object>
+                  <packing>
+                    <property name="x">247</property>
+                    <property name="y">48</property>
+                  </packing>
+                </child>
+                <child>
+                  <object class="GtkLabel">
+                    <property name="width_request">100</property>
+                    <property name="height_request">22</property>
+                    <property name="visible">True</property>
+                    <property name="can_focus">False</property>
+                    <property name="label" translatable="yes">:Entrada dos</property>
+                  </object>
+                  <packing>
+                    <property name="x">246</property>
+                    <property name="y">113</property>
+                  </packing>
+                </child>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child type="label">
+          <object class="GtkLabel">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="label" translatable="yes">Insertar_Producto</property>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>
