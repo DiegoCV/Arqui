@@ -1,0 +1,1 @@
+./Debug/src_controlador_Controlador.cpp.o ./Debug/src_controlador_Main.cpp.o ./Debug/src_vista_Login.cpp.o ./Debug/src_modelo_producto_Producto.cpp.o ./Debug/src_modelo_usuario_Usuario.cpp.o ./Debug/src_modelo_usuario_UsuarioDao.cpp.o
